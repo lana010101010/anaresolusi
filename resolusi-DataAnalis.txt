@@ -2,6 +2,6 @@
 -belajar AlinMatriks
 -Belajar statistik
 *R
-*Spss
 -Belajar Database
 -belajar riset operasi
+-python
