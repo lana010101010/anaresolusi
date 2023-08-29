@@ -1,6 +1,9 @@
 Rencana Ana kedepannya
 -belajar backend dev
+*java
 -belajar problem solving
 -belajar bahasa inggris
 -belajar dasar-dasar programming
 -belajar softskills
+-belajar bikin cv
+
