@@ -3,6 +3,7 @@
 -Belajar statistik
 *R
 *Sas
+*excel
 -Belajar Database
 -Belajar problem soving
 -belajar riset operasi
