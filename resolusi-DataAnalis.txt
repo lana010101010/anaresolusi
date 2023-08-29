@@ -1,0 +1,7 @@
+
+-belajar AlinMatriks
+-Belajar statistik
+*R
+-Belajar Database
+-Belajar problem soving
+
