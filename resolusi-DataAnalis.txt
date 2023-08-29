@@ -4,4 +4,4 @@
 *R
 -Belajar Database
 -Belajar problem soving
-
+-belajar riset operasi
